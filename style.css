@@ -1,0 +1,519 @@
+body{
+    background-color: #FDFCDC;
+}
+
+.title-Espacio{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #00afb9;
+    text-align: right;
+    margin-right: 50px;
+}
+
+.Hecho-México{
+    font-family: 'Poppins', sans-serif;
+    color: #afad77;
+    font-size: 15px;
+    margin-left: 1229px;
+    margin-top: -15px;
+}
+.portada{
+    width: 750px;
+    align-self: center;
+}
+
+.Autora{
+    width: 120px;
+    border-radius: 70px;
+    position: relative;
+    margin-left: 330px ;
+    margin-bottom: 210px;
+}
+
+.Presentación{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 910px;
+    margin-top: -185px;
+}
+/*******************************************************************/
+header{
+    width: 100%;
+    height: 55px;
+    
+}
+    header nav{
+        display:flex;
+        justify-content: center;
+        margin-top: 2px;
+    }
+        header nav .nav-center-section{
+        /*PARA ELIMIAR LAS VIÑETAS*/
+        background-color: #f07167;
+        border-radius: 400px;
+            list-style: none;
+            width: 2000px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: auto;
+        }
+        nav .nav-center-section a{
+            text-decoration: none;
+            margin-right: 215px;
+        }
+    .Nav-text{
+        font-family: 'Poppins', sans-serif;
+        font-size: 12px;
+        text-align: center;
+        color:aliceblue;
+    }
+/*************************1-ASTROBIOLOGÍA**************************************/
+.title-astrobiología{
+    font-size: 40px;
+    font-family:'Tektur';
+    color: #00AFB9;
+}
+    .p-astrobiología{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    color: #1282a2;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+    .ejemplo-astrobiología{
+        columns: 2;
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #154552;
+        margin-left: 100px;
+        margin-right: 50px;
+    }
+            .Stanley-Miller{
+                width: 300px;
+                border-radius: 30px;
+                margin-top: -40px;
+            }
+.subtitle-ocupación-astro{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #00AFB9;
+    margin-left: 20px;
+}
+    .texto-ocupación-astro{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    color: #1282a2;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px;
+    }
+.subtitle-astro-méxico{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #00AFB9;
+    margin-left: 20px;
+}
+    .astro-en-méxico{
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #1282a2;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+        .astro-méxico{
+            width: 600px;
+            margin-left: 350px;
+            border-radius: 30px;
+
+        }
+            .a-Ivana{
+                font-family: 'Poppins', sans-serif;
+                color: #ed6a5e;
+                text-align: center;
+                margin-left: 350px;
+                list-style: none;
+            }
+
+/*********************************2- ORIGEN DEL UNIVERSO************************************/
+
+.title-Origen{
+    font-size: 40px;
+    font-family:'Tektur';
+    color: #00AFB9;
+}
+    .subtitle-big-bang{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #00AFB9;
+    margin-left: 20px;
+    }
+        .p-big-bang{
+        columns: 2;
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #1282a2;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px;
+        }
+            .img-bigbang{
+                width: 490px;
+                margin-top: -40px;
+                border-radius: 50px; 
+            }
+    .subtitle-universo-oscuro{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #00AFB9;
+    margin-left: 20px;
+    }
+        .p-universo-oscuro{
+            columns: 2;
+            font-family: 'Poppins', sans-serif;
+            font-size: 17px;
+            color: #1282a2;
+            text-align: justify;
+            margin-left: 50px;
+            margin-right: 50px; 
+        }
+        .img-universo-oscuro{
+            height: 300px;
+            width: 1000px;
+            margin-top: -40px;
+            margin-left: 200px;
+            border-radius: 50px; 
+        }
+            .a-universooscuro{
+                font-family: 'Poppins', sans-serif;
+                color: #ed6a5e;
+                text-align: center;
+                margin-left: 400px;
+                list-style: none;
+            }
+/********************************3. ORIGEN DE LAS ESTRELLAS******************************/
+
+.title-estrellas{
+    font-size: 40px;
+    font-family:'Tektur';
+    color: #00AFB9;
+}
+    .Top-10{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #00AFB9;
+    margin-left: 20px;
+    }
+        .list-top10{
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #1282a2;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px;
+        }
+    .nacimiento-galaxias{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #00AFB9;
+    margin-left: 20px;
+    }
+        .p-galaxias{
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #1282a2;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px;  
+        }
+
+        .img-nacimiento{
+            width: 60%;
+            margin-left: 280px;
+        }
+            .titulo-video{
+    font-size: 20px;
+    font-family:'Tektur';
+    color:#ed6a5e;
+    margin-left: 500px;
+            }
+/*****************************4. NASA*************************************************/
+.title-Nasa{
+font-size: 40px;
+font-family:'Tektur';
+color: #00AFB9;
+}
+    .subtitle-significado-NASA{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #00AFB9;
+    margin-left: 20px; 
+    }
+        .p-NASA{
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #1282a2;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px;   
+        }
+    .subtitle-misiones{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #00AFB9;
+    margin-left: 20px; 
+    }
+/************************************Misiones*********************************************/
+.misiones-tripuladas{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #ed6a5e;
+    margin-left: 20px;} 
+        .puntos-MT{
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #1282a2;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px; 
+        }
+
+
+.misiones-no-tripuladas{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #ed6a5e;
+    margin-left: 20px;}
+        .puntos-MNT{
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #1282a2;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px; 
+        }
+
+.misiones-planetas{
+    font-size: 18px;
+    font-family:'Tektur';
+    color: #ed6a5e;
+    margin-left: 20px;}
+        .puntos-MP{
+        font-family: 'Poppins', sans-serif;
+        font-size: 17px;
+        color: #1282a2;
+        text-align: justify;
+        margin-left: 50px;
+        margin-right: 50px; 
+        }
+
+    /****************LISTADO DE PERSONAS*****************************************************/
+        .listado-personas{
+    list-style: none;
+}
+           .personalidades{
+        font-size: 18px;
+        font-family:'Tektur';
+        color: #00AFB9;
+        margin-left: 20px;
+            }
+                 .persona-1{
+        margin-left: 20px;
+        font-family:'Tektur';
+        font-size: 18px;
+        color: #ed6a5e;
+                    }
+                     .p-persona-1{
+                columns: 2;
+                font-family: 'Poppins', sans-serif;
+                font-size: 17px;
+                color: #1282a2;
+                text-align: justify;
+                margin-left: 50px;
+                margin-right: 50px; 
+                        }
+                          .img-persona1{
+                            position: relative;
+                            border-radius: 300px;
+                            left: 50px;
+                            width: 50%;
+                            margin-top: 23px;
+                            }
+                 .persona-2{
+        margin-left: 20px;
+        font-family:'Tektur';
+        font-size: 18px;
+        color: #ed6a5e;
+                    }
+                    .p-persona-2{
+                columns: 2;
+                font-family: 'Poppins', sans-serif;
+                font-size: 17px;
+                color: #1282a2;
+                text-align: justify;
+                margin-left: 50px;
+                margin-right: 50px; 
+                        }
+                        .img-persona2{
+                            position: relative;
+                            border-radius: 300px;
+                            left: 45px;
+                            width: 45%;
+                            margin-top: -26px;
+                        }
+                 .persona-3{
+        margin-left: 20px;
+        font-family:'Tektur';
+        font-size: 18px;
+        color: #ed6a5e;
+        }
+                    .p-persona-3{
+                columns: 2;
+                font-family: 'Poppins', sans-serif;
+                font-size: 17px;
+                color: #1282a2;
+                text-align: justify;
+                margin-left: 50px;
+                margin-right: 50px; 
+            }
+                        .img-persona3{
+                            border-radius: 300px;
+                            position: relative;
+                            left: 90px;
+                            width: 60%;
+                        }
+                .persona-4{
+        margin-left: 20px;
+        font-family:'Tektur';
+        font-size: 18px;
+        color: #ed6a5e;
+        }
+                    .p-persona-4{
+                columns: 2;
+                font-family: 'Poppins', sans-serif;
+                font-size: 17px;
+                color: #1282a2;
+                text-align: justify;
+                margin-left: 50px;
+                margin-right: 50px; 
+            }
+                        .img-persona4{
+                            position: relative;
+                            border-radius: 300px;
+                            left: 90px;
+                            width: 60%;
+                        }
+
+/**********************************5. GALERÍA DE IMÁGENES*********************************/
+.title-galería{
+font-size: 40px;
+font-family:'Tektur';
+color: #00AFB9;
+}
+
+.indicaciones{
+    columns: 2;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    color: #154552;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+
+        section{
+            border-color: #00afb9;
+            border-style:solid;
+            border-width: 10px;
+            border-right-width: 10px;
+            display: flex;
+            width: 600px;
+            height: 400px;
+            margin-left: 100px;
+        }
+.foto-1{
+    width: 100px;
+    flex-grow: 1px;
+    object-fit: cover;
+    transition: 2s ease;
+}
+    .foto-1:hover{
+        cursor: crosshair;
+        width: 500px;
+        filter: contrast(120%);
+    }
+.foto-2{
+    width: 100px;
+    flex-grow: 1px;
+    object-fit: cover;
+    transition: 2s ease;
+}
+    .foto-2:hover{
+        cursor: crosshair;
+        width: 500px;
+        filter: contrast(120%);
+    }
+.foto-3{
+    width: 100px;
+    flex-grow: 1px;
+    object-fit: cover;
+    transition: 2s ease;
+}
+    .foto-3:hover{
+        cursor: crosshair;
+        width: 500px;
+        filter: contrast(120%);
+    }
+.foto-4{
+    width: 100px;
+    flex-grow: 1px;
+    object-fit: cover;
+    transition: 2s ease;
+}
+    .foto-4:hover{
+        cursor: pointer;
+        width: 500px;
+        filter: contrast(120%);
+    }
+.foto-5{
+    width: 100px;
+    flex-grow: 1px;
+    object-fit: cover;
+    transition: 2s ease;
+}
+    .foto-5:hover{
+        cursor: crosshair;
+        width: 500px;
+        filter: contrast(120%);
+    }
+.foto-6{
+    width: 100px;
+    object-fit: cover;
+    transition: 2s ease;
+}
+    .foto-6:hover{
+        cursor: crosshair;
+        width: 500px;
+        filter: contrast(120%);
+    }
+
+/**************************************************************************/
+
+.title-referencias{
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    color:#f07167;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px; 
+}
+        .Referencias{
+
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    color:#f07167;
+    text-align: justify;
+    margin-left: 50px;
+    margin-right: 50px; 
+        }
